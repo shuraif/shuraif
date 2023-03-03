@@ -7,3 +7,9 @@ on:
         default: 'warning'
       tags:
         description: 'Test scenario tags'  
+jobs:
+ test:
+  steps:
+   - name: print
+     run: |
+      echo "Hello world..!"
