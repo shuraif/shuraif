@@ -1,13 +1,10 @@
 ## Stats
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=shuraif" alt="Shuraif's GitHub stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=neon" alt="Shuraif's' GitHub Streak">
+<h2>Stats</h2>
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
+   <img src="https://github-readme-stats.vercel.app/api?username=shuraif" alt="Shuraif's GitHub stats" style="width: 50%; height: auto;">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=neon" alt="GitHub Streak" style="width: 50%; height: auto;">
 </div>
-
-
-
-
 
   
 ![snake gif](https://raw.githubusercontent.com/shuraif/shuraif/output/github-contribution-grid-snake.svg)
