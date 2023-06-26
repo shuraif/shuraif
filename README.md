@@ -2,8 +2,9 @@
 
 <h2>Stats</h2>
 <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
-   <img src="https://github-readme-stats.vercel.app/api?username=shuraif&show_icons=true&theme=transparent" alt="Shuraif's GitHub stats" style="width: 100%; height: auto;">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shuraif&show_icons=true&theme=transparent" alt="Shuraif's GitHub stats" style="width: 100%; height: auto;">
+   
 </div>
 
 
