@@ -2,20 +2,14 @@
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shuraif&show_icons=true&theme=transparent" alt="Shuraif's GitHub stats" style="width: 100%; height: auto;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraif&hide=GLSL,Astro,Rust,Go)
-
-   
 </div>
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shuraif" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8" />
 </a>
 
 
