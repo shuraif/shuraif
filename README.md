@@ -1,17 +1,14 @@
-<a><h2>Stats</h2></a>
-<div>
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="43%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=shuraif&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="43%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shuraif&theme=shades-of-purple&hide_border=true"/>
-    </a>
-  </div>
-  </br>
+## Stats
 
-[![Shuraif's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuraif)]
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=shuraif" alt="Shuraif's GitHub stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=neon" alt="Shuraif's' GitHub Streak">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=neon)]
+
+
+
+
   
 ![snake gif](https://raw.githubusercontent.com/shuraif/shuraif/output/github-contribution-grid-snake.svg)
 
