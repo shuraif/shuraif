@@ -9,7 +9,9 @@
   </div>
   </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=neon)](https://git.io/streak-stats)
+[![Shuraif's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuraif)]
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=neon)]
   
 ![snake gif](https://raw.githubusercontent.com/shuraif/shuraif/output/github-contribution-grid-snake.svg)
 
