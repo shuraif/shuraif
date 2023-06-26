@@ -4,7 +4,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=shuraif&show_icons=true&theme=transparent" alt="Shuraif's GitHub stats" style="width: 100%; height: auto;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,Astro,Rust,Go)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraif&hide=GLSL,Astro,Rust,Go,Python)
 
    
 </div>
