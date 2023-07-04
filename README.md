@@ -9,7 +9,7 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" style="width: 100%; height: auto;" />
   </div>
   <div style="width: 50%;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=560" style="width: 100%; height: auto;" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent" style="width: 100%; height: auto;" />
   </div>
 </div>
 
