@@ -4,7 +4,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
 </div>
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; text-align: center;">
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" style="width: 100%; height: auto;" />
