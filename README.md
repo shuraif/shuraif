@@ -4,13 +4,16 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
 </div>
 
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" />
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=360" />
-</a>
+</div>
+
+
+
 
 
 <!-- 
