@@ -4,21 +4,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shuraif&theme=transparent" alt="GitHub Streak" style="width: 100%; height: auto;">
 </div>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr>
-     <td style="width: 50%; text-align: center; border: none;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" style="width: 100%; height: auto;" />
-    </td>
-     <td style="width: 50%; text-align: center; border: none;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=560" style="width: 100%; height: auto;" />
-    </td>
-  </tr>
-</table>
 
-
-
-
-
+<div style="width: 100%; display: flex;">
+  <div style="width: 50%; text-align: center;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" style="width: 100%; height: auto;" />
+  </div>
+  <div style="width: 50%; text-align: center;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=560" style="width: 100%; height: auto;" />
+  </div>
+</div>
 
 
 <!-- 
