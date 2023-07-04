@@ -5,11 +5,11 @@
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
-     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" />
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent" style="width: 100%; height: auto;" />
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=360" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent" style="width: 100%; height: auto;" />
 </div>
 
 
