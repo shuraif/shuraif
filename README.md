@@ -7,10 +7,10 @@
 
 <div style="width: 100%; display: flex;">
   <div style="width: 50%; text-align: center;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent&card_width=560" style="width: 100%; height: auto;" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuraif&theme=transparent&card_width=860" style="width: 100%; height: auto;" />
   </div>
   <div style="width: 50%; text-align: center;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=560" style="width: 100%; height: auto;" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuraif&layout=compact&langs_count=8&theme=transparent&card_width=860" style="width: 100%; height: auto;" />
   </div>
 </div>
 
