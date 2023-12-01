@@ -1,44 +1,44 @@
-# name: Language Statistics
+name: Language Statistics
 
-# on:
-#   push:
-#     branches:
-#       - main  # Change this to the branch you want to trigger the workflow on
+on:
+  push:
+    branches:
+      - main  # Change this to the branch you want to trigger the workflow on
 
-# jobs:
-#   generate-stats:
-#     runs-on: ubuntu-latest
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
  
-#     steps: 
-#       - name: Checkout repository
-#         uses: actions/checkout@v2
+    steps: 
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-#       - name: Set up Node.js
-#         uses: actions/setup-node@v2
-#         with:
-#           node-version: 14
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
 
-#       - name: Install cloc
-#         run: |
-#           wget -qO- https://github.com/AlDanial/cloc/releases/download/1.90/cloc-1.90.tar.gz | tar xvz
-#           cd cloc-1.90
-#           sudo perl Makefile.PL
-#           sudo make
-#           sudo make install
+      - name: Install cloc
+        run: |
+          wget -qO- https://github.com/AlDanial/cloc/releases/download/1.90/cloc-1.90.tar.gz | tar xvz
+          cd cloc-1.90
+          sudo perl Makefile.PL
+          sudo make
+          sudo make install
 
-#       - name: Generate language statistics
-#         run: cloc --json --exclude-dir=node_modules --exclude-ext=md .
+      - name: Generate language statistics
+        run: cloc --json --exclude-dir=node_modules --exclude-ext=md .
 
-#       - name: Install ImageMagick
-#         run: |
-#           sudo apt-get update
-#           sudo apt-get install -y imagemagick
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
 
-#       - name: Generate language statistics image
-#         run: convert -size 300x150 xc:white -pointsize 12 -draw "text 10,20 'Language Statistics'" -draw "text 10,40 '$(cat cloc.json)'" stats.png
+      - name: Generate language statistics image
+        run: convert -size 300x150 xc:white -pointsize 12 -draw "text 10,20 'Language Statistics'" -draw "text 10,40 '$(cat cloc.json)'" stats.png
 
-#       - name: Upload language statistics image
-#         uses: actions/upload-artifact@v2
-#         with:
-#           name: stats-image
-#           path: stats.png
+      - name: Upload language statistics image
+        uses: actions/upload-artifact@v2
+        with:
+          name: stats-image
+          path: stats.png
