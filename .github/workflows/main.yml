@@ -9,6 +9,10 @@ on:
   schedule:
       # every 6 hours
     - cron: "0 */1 * * *"
+  # This makes the action run on every push to the master branch.
+  push:
+    branches:
+      - master
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
