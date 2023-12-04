@@ -29,7 +29,8 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-
+      - name: Create dist directory
+        run: mkdir dist
     # Generates the snake  
       - uses: Platane/snk@main
         id: snake-gif
@@ -49,8 +50,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
-      - name: Create dist directory
-        run: mkdir dist
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
