@@ -12,7 +12,7 @@ on:
   # This makes the action run on every push to the master branch.
   push:
     branches:
-      - master
+      - main
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
