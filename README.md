@@ -21,7 +21,7 @@ https://github.com/anuraghazra/github-readme-stats
 -->
  
   
-![snake gif](https://raw.githubusercontent.com/shuraif/shuraif/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/shuraif/shuraif/output/only-svg/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
 	<a href="https://github.com/shuraif"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
