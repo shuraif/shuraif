@@ -28,7 +28,7 @@ jobs:
           outputs: |
             dist/docker/github-contribution-grid-snake.svg
             dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/docker/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/docker/github-contribution-grid-snake.gif?color_snake=#FF7F50&color_dots=#FFFFFF,#000000,#FFFF00,#FF69B4,#00CED1
       - name: ensure the generated file exists
         run: |
           ls dist
